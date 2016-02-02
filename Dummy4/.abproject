@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Dummy4",
+  "ProjectGuid": "1c50e7e9-d9c9-4ec9-b211-0d32c423be32",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Dummy4",
+  "DisplayName": "Dummy4",
+  "Author": "",
+  "Description": "Dummy4",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5a3d32ab-7ad7-4f63-a188-8b1a8d9b747a}",
+  "WP8ProductID": "{f0ed25e9-6cb9-455b-84e7-c3195ece8dc1}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Dummy4",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
